@@ -63,7 +63,7 @@ How to run the GUI of the project :
 Open 
 1. run Main.java 
 2. Follow the steps as in GUI 
-3. It shows the recommended places to visit based on several parameters or you can enter place of your choice and our expert systems recommends similar place that you may like .
+3. It shows the recommended places to visit based on several parameters or you can enter place of your choice and our expert system recommends similar place that you may like .
 
 
 FILES USED:
